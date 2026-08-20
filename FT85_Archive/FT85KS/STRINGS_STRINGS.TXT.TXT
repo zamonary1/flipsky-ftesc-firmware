@@ -1,0 +1,4 @@
+firmware_0025DD18_FT85KS.bin :
+FT85KS
+firmware_004BD4DC_FT85KS.bin :
+FT85KS

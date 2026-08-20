@@ -1,0 +1,6 @@
+firmware_00328504_FT85HS_RC.bin :
+FT85HS_RC
+firmware_00587CC8_FT85HS_RC.bin :
+FT85HS_RC
+firmware_005B04C4_FT85HS_RC.bin :
+FT85HS_RC

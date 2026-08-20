@@ -1,0 +1,4 @@
+firmware_002D750C_FT85GS.bin :
+FT85GS
+firmware_00536CD0_FT85GS.bin :
+FT85GS

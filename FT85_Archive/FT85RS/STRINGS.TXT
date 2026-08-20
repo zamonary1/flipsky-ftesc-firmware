@@ -1,0 +1,4 @@
+firmware_0023551C_FT85RS.bin :
+FT85RS
+firmware_00494CE0_FT85RS.bin :
+FT85RS

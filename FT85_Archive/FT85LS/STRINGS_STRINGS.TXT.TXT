@@ -1,0 +1,4 @@
+firmware_0041B4EC_FT85LS.bin :
+FT85LS
+firmware_006524B4_FT85LS.bin :
+FT85LS

@@ -1,0 +1,1804 @@
+?r@)
+x	&,
+@F!F
+FPFYF
+2F+F
+@F!F
+QA2F+F
+ pGD
+@pG *
+SFZF
+FPFYFBF
+ F9F
+v,C7C
+!pG!
+FpGp
+j	}"
+CAc0
+HAhI
+A`pG
+IH`pG
+`.J/I
+H`pG
+p`H`pG
+`pG@h
+Error Stop
+(ana(i@
+ )i!
+(ene(m@
+ a.`O
+ e.`O
+JB`AdBdpG#
+"@! F
+" !(F
+"@!(F
+`pG0
+pG0(n
+pGPh 
+@pP`
+pGP`0
+pGPh 
+pGPh
+@pP`
+@pP`
+@`P`
+@`P`
+@Ph 
+IH`pG
+zqA`
+K@"O
+H@hpG
+  pG
+IH`pG
+H@xpG
+ g@S:@
+=fff?
+8b>y>"% C
+[4g6
+q!HC@
+4 pG
+ g@S:
+G\Rx
++F2FiF
+2F8F
+"	!XF
+ !2H
+K@"O
+K@"O
+I@ Ha.p7
+Dcaa`
+D@B``
+k?g@S:
+=fff?
+E33S@
+FHI2
+.eBH
+$tIp
+q F	
+DoAo9
+fo`o8
+DoAo9
+fo`o8
+DoAo9
+ppG@
+ppG@
+DoAo9
+fo`o8
+eo`o8
+eo`o8
+fo`o8
+F@jI
+$	K@"O
+K|"O
+ g@S:
+Bgfff
+r!F(F
+:gfff
+@fff?
+Y*YI`
+333?
+yDgfff
+1r(F
+Aoag
+F8hB
+Aoag
+$(F	
+Aoag
+r!F@F
+GIHM
+aEL`o
+Motor and ESC Protect Thread
+IJh"
+CH`pG
+PapG
+HAjA
+qAbpG
+"C		I
+	jIj
+HepG
+cHm@
+HepG
+*F1F8F
+`h*F0D
+`h:F0D
+2F`h
+*F F
+"x#*
+gfff
+"!F(F
+"!F(F
+L h 
+ `	I
+"!F(F
+#"F1F
+zs"F1F
+ (pp
+K@"O
+	K@"A
+(`"m
+L	M!h
+A%M$N,h
+`(`0F
+`(`0F
+8`0F
+(`"n
+ time:%u, rtc_seconds:%d. 
+&Ai1
+<HDk!
+"z:(
+hRh:
+ time:%u, RTC_Alarm_IRQHandler(). 
+  a`a
+ Terminal
+F7FAE
+	@E(
+!h i
+=Fph*F DIF
+DJhF
+~3mL9
+RK{D
+=*>H
+zIyD
+r1=6'
+RJhF
+a4,3mL9
+Rx:U
+pGpG
+A`pG
+pG6^
+a@apG(
+aJiBa
+cpG(
+gPhRh
+F@n &
+RRKR
+Ri F)F
+Gefp
+ `fp
+...!
+h FJi)F
+Gefp
+ `fp
+pI%g
+ FKi)F
+h)FBi F
+` a`a
+a b`b
+b`f F
+ ``h:I
+@`` h 
+p ` h 
+  ``h 
+h@`` k1I
+@ cO
+0 ` h
+`h```h 
+`P```h@
+P```h 
+````h@
+````h 
+`@```h@
+ @`` h@
+p ` h
+```h@
+```h
+!%\@
+!%\@
+!&\@
+!&\@
+!%\@
+!%\@
+!%\@
+!%\@
+!%\@
+ x2I
+ xaxA
+&ydy
+# xjF	!
+Aoag
+$tI(
+%T F
+%T F
+%T F
+$tIp
+%T F
+&T F
+KA"O
+K@"O
+K@"A
+&TeT
+@`TH
+Ab(0
+"F9F
+@!F8F
+2#jF
+i``O
+AF F
+:FAF F
+AF F
+:FAF F
+CAN Esc Data Send Thread
+zD3I
+i2L3N
+ioFO
+`ad(
+`ad(
+CAN RX Frames Handle Thread
+'M'L
+CAN Receive Thread
+ CNCODLO
+ `(`0`8`_
+`(`8`
+FpG(
+1F F
+a"i	x
+YF F
+J`Bj
+`JhB`
+`H`@j
+J`Bj
+`JhB`
+4F$h
+,``hh`
+`e`nb
+<pG-
+9F F
+``iA
+YF F
+h*`O
+`BhJ`
+`JhB`
+`H`pG(
+L%`l`
+`BhJ`
+`JhB`
+`H`0
+`ShK`
+idle
+!Dd9
+` wew
+a aBiba
+h!`L`Eb
+`ChS`
+IHbpG
+`ShC`
+Check Firmware Integrate Thread
+,@!`
+p@H`
+6 Fz
+s`Cz
+h-L `-H
+h``,H
+,bDr@B`
+!aDq@
+0123456789abcdef
+FLISp
+"@!(F
+MiF(F
+iF F
+ pG,
+?,==?==
+yIyB
+pGBmR
+ b6	
+"i"H
+Esc Status Thread
+pB333?O
+!A`pG
+ Fa`
+aBhSis
+!Bi1 
+hJiB
+ %O!
+#M#LO
+hih@
+q"QC
+np!h
+ &`f`
+IWDTG Thread
+aKh@!
+KL@%%a
+K@"O
+K@"O
+ (I#
+Main Loop Thread
+ppGI
+pGXD
+Aoag
+Aoag
+?333@
+?33s@
+Ffff?
+L?ff
+iF(F
+iF(F0
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F 
+jFhT
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+ {jFhT
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+FiF(F
+iF(F
+iF(F
+iF(F
+iF(F0
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+)\!s@
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+)\ag@
+iF(F
+>33s?
+4C33
+6X94<
+Dfff?
+?l	y;
+9ffF@-
+dM,,
+33s?
+EHFL
+HFPI Calculate Thread
+Gg@S:
+fff?
+$tIO
+4N0F
+ !0F
+ !0F
+DdD4
+Motor FOC Timer
+fff?
+" !	H
+`epp
+H ` 
++F@"
+Ay(F
+1F8F
+1F8F
+AFHF
+AFHF
+hHi@h
+AFHF
+AFHF
+pGpG8
+H ` 
+M*/"
+!!p`p
+@FYa
+h a0xO
+``iF0F
+iF0F
+iF0F
+iF0F
+iF0F
+iF0F
+FT85LS
+iF0F
+iF0F
+Aoag
+!F0F
+Ho`g
+Aoag
+!F0F
+1r F
+Ho`g
+1r F
+!F0F
+Aoag
+Ho`g
+1r@F
+ !F0pp
+1r F
+iF0F
+pLiF 
+!!q1\@
+!aq1\@
+!!s1\@
+!as1\@
+s1\@
+s1\@
+!!t1\@
+!at1\@
+	K@"A
+K;"O
+u im
+*F9F
+.D)F8F
+aZaI
+ +I$
+7F(M
+&*xp
+/p!h
+Serial Handle CPU Thread
+ NIH
+iLLO
+EM`h
+(\1p
+Serial Commmad Thread
+`BhJ`
+BlJd
+K@"O
+  p`x
+3ppG
+PpGP
+ pGx
+h!`Aha`
+Akac
+@l`d0H
+bpGx
+K@"O
+  p`x
+}!uA}au
+`hx0
+K@"@
+p`x(
+ xhT
+!})T
+!~)T
+ |hT
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+1q F
+FiF(F
+(\ p
+!!u)\!bA
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+a`d#
+6:bb
+zE33
+L@ff&?
+4Bfff?
+"@! F
+K@"A
+`BhJ`
+BkJc
+ 8p@
+K@"O
+(y qhy`q
+`({ sh{`s
+s(| th|`thi`a  
+ ap!
+M(x8
+ h	(
+C!h	)
+Signal Adc Contorl Thread
+E33S@
+>>>aa>>aa
+ h	(7
+9J(k
+p(qo
+pp!0F
+N0x8
+jhc0x
+ 0p6
+}O(F
+iO(F
+DO0F
+@H!n
+Signal Pas Contorl Thread
+E33S@
+ xq4
+Signal PPM Control Thread
+py`p
+Signal Uart Control Thread
+ q)h
+@iF0F
+@iF(F
+>fff>
+pGx;
+@h $
+FpG I
+"iF(
+uart Data Handle Thread
+Fp\I
+USB Data Handle Thread
+"iFCh
+;cTI
+USB Data Read Thread
+`%aea
+a%beb
+b Fa`
+@RX`
+pGP\
+`BhO
+ (` F
+`riRhU
+xcEN
+,Ci]
+hCaI
+hAa !
+iAh	
+`pG8
+#`)T h
+#`)T h
+#`)T hA
+!`*T8
+pGAj
+`JhB`
+H`pG(
+@<.pu
+ main
+TTR REGGES
+0123456789ABCDEF
+@tAb
+9}<89
+9+Be9
+time:%u, adc_throttle_val:%d, motorCurrPercent:%d, duty_now:%d.  
+Z4>5
+IHDR
+IDATx
+)MiJS
+)MiJS
+)MiJS
+)MiJS
+)MiJS>
+)MiJS
+MiJS
+)MiJS
+)MiJS
+)Y/U
+5W54W
+nNH_
+^;rf
+s+Zm
+4l3:
+Wq+UT
+}b'l
+V;_g
+I|g+
+e95d@*U
+qd'	S
+d:Zg
+PsgJ
+U*"hmA
+pxcBY
+p[9AZ
+9tn8
+3=2n
+_}4V^
+ o0Y
+|)f3
+NmR7
+s/r!
+R2z*:S5
+[)n/
+!tFxT(
+)A[+V}
+GX74
+.g2 
+f&dw
+{^N[
+z?E3C1
+|jQi
+"~w+t
+I49pN
+q?ZJy
+T89J
+EBbR
+>79ab|
+|6yl
+B9c2I3HQ#
+&MPs
+]"in.
+Q6j8z@
+%(2*
+2qFi
+MoUS
+nqvUq
+n<T_7
+13.v%u6Hr!
+fER%
+8rFp
+\s+Z
+wdP?
+3F$/$
++s.Z	
+wSQ 
+gOC-_B
+%Vx>
+LiFQ|
+9 t1
+A 1J
+dvr$.bK
+8f3~9
+,q@o
+[Ob%o
+)u*.
+-!Ky
+7F}cM
+\{L+
+R;V~
+Z QC
+Y|tX
+Em&F1
+Jt^|!l{
+Sx_k6
+Mo',u
+G	47
+a&^~
+|N"gGh
+D6d#
+VO5E
+b|ZK<
+N$?w
+g_@T
+fO*q
+0y<-'"
+ W@<QFK
+97Vil
+IDAT
+*ei7J
+19A52
+\,ax
+9yns+W
+/`&F
+0Wqn
+a-9w
+JRerq34
+SObd
+4"}n
+o~AQ
+eFc6
+-$@]1	0Q2
+W&Ry
+BVp[
+q F:LT
+*Ur'1
+~<fQ)
+8]eg4q
+fDm]L
+N!E%
+`n@J
+j	<F*E5
+k>'N
+XC9f
+>rP5
+(N|m
+etn8
+xr#X
+Q;tW?
+N].6
+U= L
+9=:!
+TBnl"Oz
+9C(L
+7"#!
+Hj)t	
+R2cZ
+(K\P:^
+	i4C0
+Ve5V
+S6.R
+rcVs
+c"h2
+ W(A
+tN1'
+3S'F
+y1>u}
+P|hU
+x<:?
+5Lpe
+0j&F1
+VC.V
+[haV
++\<C!Ag
+Eh=6eQ
+0N1~{
+	OxL
+BG"Q
+LkfV
+;zMY
+z@,n
+jOq#
+40dI
+`ZJ(
+r#z/
+=<JcSG
+}Oxq
+#\{,V
+P{~2@
+De}z
+bL#{o
++Kz,
+#Zpc
+Tyk?
+\.(@-
+)6JE
+};`v
+Uo9"
+!Cg 
+KGQ~
+l=wP
+(&B<ND
+oB<9
+n(b#-
+ukCk
+!!1G!
+h-Jt
+!bp/
+|[;j
+Ci}g1
+#O W
+ 6	7[
+l=eC
+(_Di
+!+|2
+$r:/
+P8z5tW
+`0Q|
+{/?=
+4sL'
+^"3g
+k7v~
+! D]F0
+"	9RPD
+&$cE
+bVeqY
+k*FP
+'2yg|S!
+C\(p
+NATw9#
+)G@!U
+ mn}
+D"w	
+@r/h
+g_-*
+IDAT
+n+P4
+Cb|C"
+Odg/
+$44Yu
+aO85
+aF+E
+|;3-
+Cgn}
+;C:AP,
+4!sX
+b<J"
+f>zE
+:s`?
+LKO'
+h$fij
+H{I-
+/$$n^
+>4!W
++$C`
+P{g;&^}
+]WmBR
+GLdLh
+LRqaw/
+dQ77
+H!cL
+.]&c
+0hq8
+gq!]
+~t|n
+BV|F0
+oF21
+1sHi
+6z5C
+5)uo$
+]F<=
+*~]q`5
+	GR|
+x9Tk
+31x$
+OVX%o
+y`%:
+2VVe
+k}ai||
+$2]&
+d.4>
+)LvZ
+TK?wS
+~3:.
+{w-H9
+h?j5
+nMjn
+dai|
+<W5*O
+#omA8:
+J"XJ
+Yb8m
+jPjC
+H$z1
+)kgT
+dS>m
+8G0O8E:
+F]/+'
+7DI(}
+$e#<
+n3zo
+1- x
+C;^F
+<nTK
+<g(G*
+Ao7z
+9D:`.
+m7!\
+[jJS
+E*]j
+sPX:
+0uFd
+~rfW
+B-g`
+;aR 6n
+)F3k
+Jijw
+g$hs
+rFcm
+i_:k
+\P'5
+<Onm1
+l>mB
+%gCP
+qidY
+i<cY+%
++X}h
+hz+C
+q	fd
+Y%s]5
+{;1x
+)bJS
+GL@5u5
+hLI7Jc
+8*Y:
+8{56
+~#Gc0N
+xbU-
+ZEFm
+p/6"
+	6?,p
+4axF
+bQ?G$
+C8zF
+IDAT
+"-e\t
+Eng\
+\w5z
+lPO"
+ckD k
+P(WXV1e*(kJc
+O";6
+H4H9
+6K [
+;N5A2U
+'K79"
+x`	n
+B)/oz8
+Xldb
+I{^'&
+kHZ7
+ktM.
+?W8kS
+e9MP
+eU2E%
+;w&"
++W#-Dn
+h`ik
+x)zn
+FoD^
+\t(f8	RK^P
+`aiD
+4z6lE
+vU]E5
+CKVQA
+M*$!jR
++19O
+5,,a
+Ct_s5
+;nGq`9
+;oB08`gn
+h~,o:
+uMRi
+fR!W
+m@!r=
+q$rB
+Z$*4
+KXaO
+M5AX(Y
+gOc|
+x{'F
+}2K6i
+h-pZ
+r']W
+Mz9E
+@bt|
+O7*5
+y__7
+oG88,n
+0Q1b
+71f[
+@h2q
+VL$;tO
+J%EQF]c
+M6o=M:Q
+j!wd
+j6%zF
+%%yv
+sh=W:
+B7``o
+Ll'm)Ig
+j:=*d
+(P`f
+qN{Spk
+paP]%K
+jh3	
+39hd
+@*s&
+K'U=
+ETJLkie
+FN<vZ
+97_'
+a;qH^
+S!B&t
+I,/H
+Em'H
+So#qb'1
+\KANd
+Rg}J
+rLm}
+B@\q
+^W`9
+ka|q
+n: "
+^3p_
+AJ`D$C"C
+v45Y
+wI B
+x3]%
+'{g 
+@H?[
+e12KT
+<t+H
+i-Z>
+Qnw1
+HH&P"
+JT"G
+w.wG
+j7NN
+m\[h
+QqbY
+IDAT
+du6g
+.QV7
+IEND
+IHDR
+sRGB
+IDATx^
+]R#7
+Mwk4
+&J}T
+4J= 
+z\@1~
+FI0^
+'R7A
+i_l2
++7nf
+4+ <
+hcNV
+& B*'b)
+l=rC
+?VF]
+Ho*cZ
+n1W	
+U	hX^
+t7rO
+5PVQ
+,wr63
+aW  
+>~"_
+3XMeM
+GQJ5J=
+A#++$
+:-o"
+ac,?
+!6s@:H
+Z+5+
+z<WF]
+huQ\
+Rr9w
+kT/P
+1jVj
+Gho$
+uPO$
+@f;t
+UO< 
+>ae\
+ itE
+"d"1
+PT7<
+IEND
+IHDR
+sRGB
+IDATx^
+JbWb
+r%v*
+\	2+
+@Nb4
+"p|^+
+:m$)
+q=pI
+FxY1A
+e1Yf
+QN$f
+I0 Q3
+K7XE )2
+Ar{{
+Zv"H\l
+t*8\
+	G/H
+B8ZCr
+d ouz
+H~2B
+3@X^e
+e)/i	
+NB7h
+	 i(
+=-_#
+ $p4
+!lhKrh
+x=~N|
+G1m=
+P<^O
+Oj*+
+Kj7P
+B"?y
+uL$J;
+IEND
+IHDR
+sRGB
+IDATx^
+pR@z
+B{A<>
+8L!q
+	8L Y$z4mT
+2	UJ
+DT-g[
+z`7+ 
+AsVn
+bKnXg
+|J)}	
+SJ!H
+^;?*
+H0!g>
+^0=@`
+ }Zm
+Yf[m
+Zw^X
+?R/h
+@qm@
+p$(>t
+Q=MV.X
+3kbU@",?
+P[wu
+R:EB
+t\#18D
+	$o)
+1J)+
+Ss6&H
+.BbR
+~	9 u
+94Go'Z
+\^6"a
+]e9~
+VW)<=
+IEND
+IHDR
+sRGB
+{IDATx^
+dv1b
+<Al+Y
+]u[*
+ HP	
+_HBN
+_HBN
+_HBN
+_HBN
+_HBN
+_HBN
+/$!'H
+/$!'H
+_HBN
+A|!	9A"
+dEQaR
+$`^|R
+^d5X
+moo}
+$*EFN2
+$Y?1
+H*W?t[
+:!EfA.
+)>Hl
+h*L.b
+UE	c
+kn>7
+hYRN
+nOa_
+-S6-
+11\G
+>>eR
+&dN^
+3jN^`
+e^w,
+(bzh
+UJmQyw"DR
+x5-V8
+|PD'W#}
+f:.:dX
+9J?$M
+/o?H}5
+uo?T
+m=SD
+sG][B
+'-<'
+z.Og:},
+9]2]
+wd/v|
+ewJfS}
+/y=z
+:Ns#H
+o]CH
+-BA2
+/43#
+d}lw[
+Dst@
+"}2),H
+,bw#	"
+]2*'
+xf=Q
+ !X6&
+$a\/R%
+*sS%
+(RV}A
+;TX{
+X_Ls
+0Gvr$
+x	I8:q
+"g^*
+Mdt\*
+; svjK
+lp%s(3
+4L6G
+g.!M
+EqSr
+Q(p[
+IEND
+IHDR
+sRGB
+gIDATx^
+WMmj
+d7S`]
+eY>/
+u]iz
+)YkXh
+>L3X
+|4	F
+q"tLw
+p=9-
+_R0V>
+R.AA;
+8"2`A
+FuU@
+<Y5!@
+yOf	R
+7/iz
+)HgX
+"YN6
+c/Gz
+#mgX
+XgXv
+NT7(;
+RmW&,
+|x&h
+;$b^
+	6ism
+MIkV
+X5?u
+^UoX`
+dg?>f
+ S;5
+a%-+}&s
+0%{0g|
+,?`	
+AEx^
+><,gB&
+Ghhg
+&5nv
+VG&E
+MZ573
+^:W5l
+o)4[
+,	4t
+ZBd0
+Xfii
+R-!2
+IEND
+IHDR
+sRGB
+MIDATx^
+)W}z
+3u'@
+xp8Vw'@VKx
+#- 2
+D&>.(+Z
+DO1b
+H{&^
+L|v@~~
+|iul
+pV}-m
+<\eWM
+r0CwO37
+^n2q*_`M|-
+L8% 
+pz@x
+BL<; 2
+a`l[Q
+	p^	
+}C?l
+/H.p
+	@ve
+L0R.
+o8q~/
+TYcV-y
+{aaD(
+K&|a
+0ZvJ,
+,VT69
+&|-`2
+tx'0
+'Dq5
+!C{Kx
+xZ@x
+W*@,
+IV@j0
+c`s~
+E@Z6
+67Bf
+}QLl
+KZbm
+OpV@
+OV@b
+S(r{.@X
+=5 2
+>@@w5
+=- 2
+kB,@
+I9vT
+-h1@d
+5? 2
+pp8Vw'@VKx
+t'@0:
+V:Ow
+fnQc
+IEND
+IHDR
+sRGB
+IDATx^
+XTcS
+vy:Oi
+:^P<
+moV9$
+|r>p
+T1Tx 
+T3XX 
+T5\8 
+}T7`
+3=T;
+';kY
+k?.&;
+w.}0
+;:XV
+2o7ar
+tx6	
+s>\;p
+[o@@
+CIr0
+Zq@}"
+v@}!I9
+$odI
+wfL\0
+IEND
+IHDR
+sRGB
+IDATx^
+"g!|
+EKeR
+Ey]2
+G~UV
+yYt7
+bwtN
+H9-W[
+/~* 
+dM@H)
+7y[;u,
+"?7g
+Pbs@d
+HJ,k
+}9tY
+ q:U/
+lk~r|
+1;oY
+UYp,
+Yd7fw
+}<c`
+IEND
+IHDR
+sRGB
+IDATx^
+?R)b4
+(lj$
+" yh
+(lj$
+" yh
+(lj$
+" yh
+(lj$
+" yh
+!`om
+8	8>A^
+\YEO
+Dr(pp
+}zxD;5
+&p*pT
+Iz_R
+p' y8 
+p@.y8@V
+/yD@+
+\1i$
+9pklc
+2wglx
+&:G<
+8%Sl
+-y8@
++y8P
+ gHq4
+|}Fg
+!y<G`d
+!y4-
+1jm.y
+`(; *
+'K%y$C
+ y8@vJq?
+vPSkE
+ gNa
+0UYD@
+.~*p[D[5)
+x[d7l
+5a6;
+XT"	
+9v5k
+BoCNCMQj'
+=PT&$0
+8}j=
+tRwH
+*$ yT8i
+*$ yT8i
+IEND
+IHDR
+	pHYs
+	?iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmp:CreatorTool="Adobe Photoshop CC (Windows)" xmp:CreateDate="2024-10-19T17:05:12+08:00" xmp:MetadataDate="2024-10-19T17:06:59+08:00" xmp:ModifyDate="2024-10-19T17:06:59+08:00" dc:format="image/png" xmpMM:InstanceID="xmp.iid:c38975ae-f3a5-214d-8eb9-92c932156605" xmpMM:DocumentID="adobe:docid:photoshop:db5aba6a-8369-464d-a70d-b446d086c39c" xmpMM:OriginalDocumentID="xmp.did:a2687fab-e114-fa46-984e-40d8b241c813" photoshop:ColorMode="3"> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action="created" stEvt:instanceID="xmp.iid:a2687fab-e114-fa46-984e-40d8b241c813" stEvt:when="2024-10-19T17:05:12+08:00" stEvt:softwareAgent="Adobe Photoshop CC (Windows)"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:361d7d85-2085-034d-ae72-6e334e885425" stEvt:when="2024-10-19T17:06:59+08:00" stEvt:softwareAgent="Adobe Photoshop CC (Windows)" stEvt:changed="/"/> <rdf:li stEvt:action="converted" stEvt:parameters="from application/vnd.adobe.photoshop to image/png"/> <rdf:li stEvt:action="derived" stEvt:parameters="converted from application/vnd.adobe.photoshop to image/png"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:c38975ae-f3a5-214d-8eb9-92c932156605" stEvt:when="2024-10-19T17:06:59+08:00" stEvt:softwareAgent="Adobe Photoshop CC (Windows)" stEvt:changed="/"/> </rdf:Seq> </xmpMM:History> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:361d7d85-2085-034d-ae72-6e334e885425" stRef:documentID="xmp.did:a2687fab-e114-fa46-984e-40d8b241c813" stRef:originalDocumentID="xmp.did:a2687fab-e114-fa46-984e-40d8b241c813"/> <photoshop:TextLayers> <rdf:Bag> <rdf:li photoshop:LayerName="can" photoshop:LayerText="can"/> <rdf:li photoshop:LayerName="can" photoshop:LayerText="can"/> </rdf:Bag> </photoshop:TextLayers> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>:
+'kIDATx
+HB a
+)	!$E
+W`}K
+.IKJV
+LO#%:
+G-BB
+}a;/v
+p%R)
+o*IKl
+`3j%
+HYK3
+F#j	t
+>{kT
+ &^f
+R}^yUNK
+BdjZ
+|^yj
++wr?}[
+@-Ar
+yOEvD
+yM[@
+lB~i
+I|^y
+#dls
+fSl'{,pN
+CFgzUy~|
+wM[@
+,D.{_
+u:o}
+\HRu
+{[<y?
+{+m!
+b82V
+\g22
+||aE
+{82=k
+9i^O
+|Z[Db
+@"&)
+|_[DB
+D"#/E^
+gM[@
+u,pv
+	v6]
+EU&0
+'#]8
+,Df8
+gM\Y`
+&/ 9g
+T|~M
+A"}k
+M[H&
+~J[H?Gi
+3%?/
+!9|MRO[
+'%+!
+E4 4
+pkqJ
+F(f$\
+{6r	IN
+KxFLnD
+*IG3R
+?#6_
+$Lw,r
+=H;N.
+{&X3
+xV[DUHi
+e$0t
+E4!$
+|wDR
+2_AX*
+m?yG$
+	7#a
+?uG&
+2[[@
+EX'6~
+8`_d0N
+C"!NDb
+S4t>5
+ $G9	
+!$GYK%
+	x}U
+#9ok
+{GZ'5
+|wBb
+Jd&p)y
+W>J[
+9vXJ
+$f<2
+EXc56
+- !c
+Py.Q
+Dngs
+S	BL
+"=Oh
+- "G
+64YCX[
+a Ok
+SS	)
+Gc'}
+v6Tn
+!CfB
+:d,p5
+JHAV 
+EEZr
+TB"P
+Y>y?
+UjZ`&p!
+@XkU-
+8P[D !9J
+fEp}^
+m0K/a
+m	/VS
+;yW%
+L[D7S
+$>FyCQ
+'oeb
+=Wi^y
+c]4P
+A/pV
+6@O__
+,wl1
+yc#=
+V ?s
+d{`6p42;}
+_CRj
+@^ALk KY
+IEND
+@ 8o
+nmX&
+7XiC	
+wu7c
+|u;_-/
+g1=t?&
+/l^ 
+-M'Qwt?
+pt	6
+\yI~v
+QLzu
+.)ps
+5 	N
+9ZgC9j
+6.Dc
+6~8\
+BjoI
+*J;w4
+a>S ?
+39V1
+,SsY}x7
+"].B
+(R\_
+X7i 
+3>:Qv-
+~#F^
+E-oR
+^+Bz
+2w4v,y
+vBqa
+=_m3
+Eqp_6
+}h9Y
+8qt+
+vRAs
+usFa
+_\M{*o
+ir|a;
+\D*e
+mZZW
+g|IA
+6|;)o
+1kolSC
+FG|.
+[Q[s
+`l_2
+Muj7
+AlY0
+NJoN`%
+*F>x
+9?`46
+VTm}
+)nKZ
+gp=o
+\<_b
+@s(T
+@cu%
+B]:r
+m% 6
+A56	
+WET_
+S}u3
+49:h
+p%2ny
+OV1Z
+n1/q
+@ 8+
+uUAZs
+Ai'=
+e/Mu
+/-1A
+e|xl
+2?qd
+9^Tc1W
+b	p?\=2
+?U{-
+@pv"fk
+k9O~7
+S\\{
+:e)n
+_l<j
+s9H[
+mU<=j9F6O
+8`_5
+I_Cc
+^D:_
+'X=1
+]i[8
+!}<q
+`a&"
+1nJwFc
+!fu=t
+G+7a
+Kq=,
+Y~K{
+[jjdK|
+e7}\s
+dqO!
+U;WcF
+csm3
+({p4[
+ GnG
+/cMM
+$h\Z
+f\lj
+uGvb
+XGci
+t}nk
+ywt_X'
+zt=jO
+HgO}
+'QD=9
+@ 8;
+f @y
+mWSo
+C{X'L
+Qt'&<S
+Y'_F=8
+(~_L
+N@KC-
+Il~o
+Oe P
+Q[NR
++_{	
+9=m}
+<mB\
+#!q>D
+_Orz
+=.Fq
+flZ>_
+|X=c8
+c'pb
+9$$$>
+GX?u
+um/R
+;$$$>
+J}tm
+7$$$NC
+kUA}jm
+wW|>
+VR}l
+7$$$NGds
+hwN !!q
+|o#^
+f.F?
+knP]
+B=F=
+h.~%5
+ZO/u

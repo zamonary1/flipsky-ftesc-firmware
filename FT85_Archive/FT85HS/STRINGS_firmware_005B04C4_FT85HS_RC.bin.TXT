@@ -1,0 +1,1210 @@
+?r@)
+x	&,
+@F!F
+FPFYF
+2F+F
+@F!F
+QA2F+F
+ pGD
+@pG *
+SFZF
+FPFYFBF
+ F9F
+v,C7C
+!pG!
+FpGp
+j	}"
+CAc0
+HAhI
+A`pG
+IH`pG
+`.J/I
+H`pG
+p`H`pG
+`pG@h
+Error Stop
+(ana(i@
+ )i!
+(ene(m@
+ a.`O
+ e.`O
+JB`AdBdpG#
+"@! F
+" !(F
+"@!(F
+`pG0
+pG0(n
+pGPh 
+@pP`
+pGP`0
+pGPh 
+pGPh
+@pP`
+@pP`
+@`P`
+@`P`
+@Ph 
+IH`pG
+zqA`
+K@"O
+H@hpG
+  pG
+IH`pG
+H@xpG
+ g@S:8
+=fff?
+8b>y>"% C
+[4g6
+q!HC@
+4 pG
+ g@S:
+G\Rx
++F2FiF
+2F8F
+"	!XF
+ !2H
+K@"O
+K@"O
+I@ Ha.p7
+Dbac`
+D@B``
+k?g@S:
+=fff?
+E33S@
+FHI2
+.eBH
+$tIp
+q F	
+DoAo9
+fo`o8
+DoAo9
+fo`o8
+DoAo9
+ppG8
+ppG8
+DoAo9
+fo`o8
+eo`o8
+eo`o8
+fo`o8
+F@jI
+$	K@"O
+K|"O
+ g@S:
+Bgfff
+r!F(F
+:gfff
+@fff?
+Y*YI`
+333?
+yDgfff
+1r(F
+Aoag
+F8hB
+Aoag
+$(F	
+Aoag
+r!F@F
+GIHM
+aEL`o
+Motor and ESC Protect Thread
+IJh"
+CH`pG
+PapG
+HAjA
+qAbpG
+"C		I
+	jIj
+HepG
+cHm@
+HepG
+*F1F8F
+`h*F0D
+`h:F0D
+2F`h
+*F F
+"x#*
+gfff
+"!F(F
+"!F(F
+L h 
+ `	I
+"!F(F
+#"F1F
+zs"F1F
+ (pp
+K@"O
+	K@"A
+(`"m
+L	M!h
+A%M$N,h
+`(`0F
+`(`0F
+8`0F
+(`"n
+ time:%u, rtc_seconds:%d. 
+&Ai1
+<HDk!
+"z:(
+hRh:
+ time:%u, RTC_Alarm_IRQHandler(). 
+  a`a
+ Terminal
+F7FAE
+	@E(
+!h i
+=Fph*F DIF
+DJhF
+~3mL9
+RK{D
+=*>H
+zIyD
+r1=R'
+RJhF
+a4,3mL9
+Rx:U
+pGpG
+A`pG
+a@apG0
+aJiBa
+cpG0
+gPhRh
+F@n &
+RRKR
+Ri F)F
+Gefp
+ `fp
+...!
+h FJi)F
+Gefp
+ `fp
+pI%g
+ FKi)F
+h)FBi F
+` a`a
+a b`b
+b`f F
+ ``h:I
+@`` h 
+p ` h 
+  ``h 
+h@`` k1I
+@ cO
+0 ` h
+`h```h 
+`P```h@
+P```h 
+````h@
+````h 
+`@```h@
+ @`` h@
+p ` h
+```h@
+```h
+!%\@
+!%\@
+!&\@
+!&\@
+!%\@
+!%\@
+!%\@
+!%\@
+!%\@
+ x2I
+ xaxA
+&ydy
+# xjF	!
+Aoag
+$tI0
+%T F
+%T F
+%T F
+$tIp
+%T F
+&T F
+KA"O
+K@"O
+K@"A
+&TeT
+@`TH
+Ab(0
+"F9F
+@!F8F
+2#jF
+i``O
+AF F
+:FAF F
+AF F
+:FAF F
+CAN Esc Data Send Thread
+zD3I
+i2L3N
+ioFO
+`ad(
+`ad(
+CAN RX Frames Handle Thread
+'M'L
+CAN Receive Thread
+ CNCODLO
+ `(`0`8`_
+`(`8`
+FpG0
+1F F
+a"i	x
+YF F
+J`Bj
+`JhB`
+`H`@j
+J`Bj
+`JhB`
+4F$h
+,``hh`
+`e`nb
+<pG-
+9F F
+``iA
+YF F
+h*`O
+`BhJ`
+`JhB`
+`H`pG0
+L%`l`
+`BhJ`
+`JhB`
+`H`0
+`ShK`
+idle
+!Dd9
+` wew
+a aBiba
+h!`L`Eb
+`ChS`
+IHbpG
+`ShC`
+Check Firmware Integrate Thread
+,@!`
+p@H`
+6 Fz
+s`Cz
+h-L `-H
+h``,H
+,bDr@B`
+!aDq@
+0123456789abcdef
+FLISp
+"@!(F
+MiF(F
+iF F
+ pG$
+?,==?==
+yIyB
+pGBmR
+ b6	
+"i"H
+Esc Status Thread
+pB333?O
+ pG0]
+!A`pG
+ Fa`
+aBhSis
+!Bi1 
+hJiB
+ %O!
+#M#LO
+hih@
+q"QC
+np!h
+ &`f`
+IWDTG Thread
+aKh@!
+ML@%%a
+ `aKI
+K@"O
+K@"O
+ (I#
+Main Loop Thread
+ppGI
+pG`D
+Aoag
+Aoag
+?333@
+?33s@
+Ffff?
+L?ff
+iF(F
+iF(F0
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F 
+jFhT
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+ {jFhT
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+FiF(F
+iF(F
+iF(F
+iF(F
+iF(F0
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+)\!s@
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+)\ag@
+iF(F
+:33s?
+4C33
+6X94<
+Dfff?
+?l	y;
+9ffF@-
+dM,,
+33s?
+EHFL
+HFPI Calculate Thread
+Gg@S:
+fff?
+$tIO
+4N0F
+ !0F
+ !0F
+DdD4
+Motor FOC Timer
+fff?
+" !	H
+`epp
+H ` 
++F@"
+Ay(F
+1F8F
+1F8F
+AFHF
+AFHF
+hHi@h
+AFHF
+AFHF
+pGpG8
+H ` 
+M*/"
+!!p`p
+ a0xO
+``iF0F
+iF0F
+iF0F
+iF0F
+iF0F
+iF0F
+FT85HS_RC
+zDhF
+iF0F
+iF0F
+Aoag
+!F0F
+Ho`g
+Aoag
+!F0F
+1r F
+Ho`g
+1r F
+!F0F
+Aoag
+Ho`g
+1r@F
+ !F0pp
+1r F
+iF0F
+pLiF 
+!!q1\@
+!aq1\@
+!!s1\@
+!as1\@
+s1\@
+s1\@
+!!t1\@
+!at1\@
+$tIx
+	K@"A
+K;"O
+u im
+*F9F
+.D)F8F
+aZaI
+ +I$
+7F(M
+&*xp
+/p!h
+Serial Handle CPU Thread
+ NIH
+iLLO
+EM`h
+(\1p
+Serial Commmad Thread
+`BhJ`
+BlJd
+K@"O
+  p`x
+3ppG
+PpGP
+ pGp
+h!`Aha`
+Akac
+@l`d0H
+bpGp
+K@"O
+  p`x
+}!uA}au
+`hx0
+K@"@
+p`x(
+ xhT
+!})T
+!~)T
+ |hT
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+1q F
+FiF(F
+(\ p
+!!u)\!bA
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+a`d#
+6:bb
+zE33
+L@ff&?
+4Bfff?
+"@! F
+K@"A
+`BhJ`
+BkJc
+ 8p@
+K@"O
+(y qhy`q
+`({ sh{`s
+s(| th|`thi`a  
+ ap!
+M(x8
+ h	(
+C!h	)
+Signal Adc Contorl Thread
+E33S@
+>>>aa>>aa
+ h	(7
+9J(k
+p(qo
+pp!0F
+N0x8
+jhc0x
+ 0p6
+}O(F
+iO(F
+DO0F
+@H!n
+Signal Pas Contorl Thread
+E33S@
+ xq4
+Signal PPM Control Thread
+py`p
+Signal Uart Control Thread
+ q)h
+@iF0F
+@iF(F
+>fff>
+pGx;
+@h $
+FpG I
+"iF(
+uart Data Handle Thread
+Fp\I
+USB Data Handle Thread
+"iFCh
+;cTI
+USB Data Read Thread
+`%aea
+a%beb
+b Fa`
+@RX`
+pGP\
+`BhO
+ (` F
+`riRhU
+xcEN
+,Ci]
+hCaI
+hAa !
+iAh	
+`pG8
+#`)T h
+#`)T h
+#`)T hA
+!`*T8
+pGAj
+`JhB`
+H`pG0
+@<.pu
+ main
+TTR REGGES
+0123456789ABCDEF
+@tAb
+9}<89
+9+Be9
+time:%u, adc_throttle_val:%d, motorCurrPercent:%d, duty_now:%d.  
+?r@)
+@F!F
+FPFYF
+2F+F
+@F!F
+QA2F+F
+ pGD
+@pG *
+SFZF
+FPFYFBF
+ F9F
+v,C7C
+!pG!
+FpGp
+j	}"
+CAc0
+HAhI
+A`pG
+IH`pG
+`.J/I
+H`pG
+p`H`pG
+`pG@h
+Error Stop
+(ana(i@
+ )i!
+(ene(m@
+ a.`O
+ e.`O
+JB`AdBdpG#
+"@! F
+" !(F
+"@!(F
+`pG0
+pG0(n
+pGPh 
+@pP`
+pGP`0
+pGPh 
+pGPh
+@pP`
+@pP`
+@`P`
+@`P`
+@Ph 
+IH`pG
+zqA`
+K@"O
+H@hpG
+  pG
+IH`pG
+H@xpG
+ g@S:H
+=fff?
+8b>y>"% C
+[4g6
+ffF@
+q!HC@
+4 pG
+ g@S:
+`pG 
+G\Rx
++F2FiF
+2F8F
+"	!XF
+ !2H
+K@"O
+K@"O
+I@ Ha.p7
+Dbac`
+D@B``
+k?g@S:
+=fff?
+E33S@
+FHI2
+.eBH
+$tIp
+q F	
+DoAo9
+fo`o8
+DoAo9
+fo`o8
+DoAo9
+ppGH
+ppGH
+DoAo9
+fo`o8
+eo`o8
+eo`o8
+fo`o8
+$	K@"O
+K|"O
+ g@S:
+Bgfff
+r!F(F
+ff&@33
+:gfff
+@fff?
+b*bI`
+>333?
+yDgfff
+1r(F
+Aoag
+F8hB
+Aoag
+$(F	
+Aoag
+r!F@F
+gNhM
+afL`o
+hbd(
+Motor and ESC Protect Thread
+IJh"
+CH`pG
+PapG
+HAjA
+qAbpG
+"C		I
+	jIj
+HepG
+cHm@
+HepG
+*F1F8F
+`h*F0D
+`h:F0D
+2F`h
+*F F
+"x#*
+gfff
+"!F(F
+"!F(F
+L h 
+ `	I
+"!F(F
+#"F1F
+zs"F1F
+ (pp
+K@"O
+	K@"A
+(`"m
+L	M!h
+A%M$N,h
+`(`0F
+`(`0F
+8`0F
+(`"n
+ time:%u, rtc_seconds:%d. 
+&Ai1
+<HDk!
+"z:(
+hRh:
+ time:%u, RTC_Alarm_IRQHandler(). 
+  a`a
+ Terminal
+F7FAE
+	@E(
+!h i
+=Fph*F DIF
+DJhF
+~3mL9
+RK{D
+=*>H
+*?\'
+p1?`'
+zIyD
+8Bd%
+RJhF
+a4,3mL9
+Rx:U
+pGpG
+A`pG
+pGN]
+a@apG@
+aJiBa
+cpG@
+gPhRh
+F@n &
+RRKR
+Ri F)F
+Gefp
+ `fp
+...!
+h FJi)F
+Gefp
+ `fp
+pI%g
+ FKi)F
+h)FBi F
+` a`a
+a b`b
+b`f F
+ ``h:I
+@`` h 
+p ` h 
+  ``h 
+h@`` k1I
+@ cO
+0 ` h
+`h```h 
+`P```h@
+P```h 
+````h@
+````h 
+`@```h@
+ @`` h@
+p ` h
+```h@
+```h
+!%\@
+!%\@
+!&\@
+!&\@
+!%\@
+!%\@
+!%\@
+!%\@
+!%\@
+ x2I
+ xaxA
+&ydy
+# xjF	!
+Aoag
+$tI@
+%T F
+%T F
+%T F
+$tIp
+%T F
+&T F
+KA"O
+K@"O
+K@"A
+&TeT
+@`TH
+Ab(0
+"F9F
+@!F8F
+2#jF
+i``O
+AF F
+:FAF F
+AF F
+:FAF F
+CAN Esc Data Send Thread
+zD3I
+i2L3N
+ioFO
+`ad(
+`ad(
+CAN RX Frames Handle Thread
+'M'L
+CAN Receive Thread
+ CNCODLO
+ `(`0`8`_
+`(`8`
+FpG@
+1F F
+a"i	x
+YF F
+J`Bj
+`JhB`
+`H`@j
+J`Bj
+`JhB`
+4F$h
+,``hh`
+`e`nb
+<pG-
+9F F
+``iA
+YF F
+h*`O
+`BhJ`
+`JhB`
+`H`pG@
+L%`l`
+`BhJ`
+`JhB`
+`H`0
+`ShK`
+idle
+!Dd9
+` wew
+a aBiba
+h!`L`Eb
+`ChS`
+IHbpG
+`ShC`
+Check Firmware Integrate Thread
+,@!`
+p@H`
+6 Fz
+s`Cz
+h-L `-H
+h``,H
+,bDr@B`
+!aDq@
+0123456789abcdef
+FLISp
+"@!(F
+MiF(F
+iF F
+ pG,
+?,==?==
+yIyB
+pGBmR
+ b6	
+"i"H
+Esc Status Thread
+pB333?O
+!A`pG
+ Fa`
+aBhSis
+!Bi1 
+hJiB
+ %O!
+#M#LO
+hih@
+q"QC
+np!h
+ &`f`
+IWDTG Thread
+aKh@!
+KL@%%a
+K@"O
+K@"O
+ (I#
+Main Loop Thread
+ppGI
+pGpD
+Aoag
+Aoag
+?333@
+?33s@
+Ffff?
+L?ff
+iF(F
+iF(F0
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F 
+jFhT
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+ {jFhT
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+FiF(F
+iF(F
+iF(F
+iF(F
+iF(F0
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+)\!s@
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+iF(F
+Bff&@33
+iF(F
+iF(F
+iF(F
+iF(F
+)\ag@
+iF(F
+>33s?
+4C33
+6X94<
+Dfff?
+?l	y;
+9ffF@-
+dM,,
+33s?
+EHFL
+HFPI Calculate Thread
+Gg@S:
+fff?
+$tIO
+4N0F
+ !0F
+ !0F
+DdD4
+Motor FOC Timer
+fff?
+" !	H
+`epp
+H ` 
++F@"
+Ay(F
+1F8F
+1F8F
+AFHF
+AFHF
+hHi@h
+AFHF
+AFHF
+pGpG8
+H ` 
+M*/"
+!!p`p
+ a0xO
+``iF0F
+iF0F
+iF0F
+iF0F
+iF0F
+iF0F
+FT60CS_JB
+zDhF
+iF0F
+iF0F
+Aoag
+!F0F
+Ho`g
+Aoag
+!F0F
+1r F
+Ho`g
+1r F
+!F0F
+Aoag
+Ho`g
+1r@F
+ !F0pp
+1r F
+iF0F
+pLiF 
+!!q1\@
+!aq1\@
+!!s1\@
+!as1\@
+s1\@
+s1\@
+!!t1\@
+!at1\@
+	K@"A
+K;"O
+u im
+*F9F
+.D)F8F
+aZaI
+ +I$
+7F(M
+&*xp
+/p!h
+Serial Handle CPU Thread
+ NIH
+iLLO
+EM`h
+(\1p
+Serial Commmad Thread
+`BhJ`
+BlJd
+K@"O
+  p`x
+3ppG
+PpGP
+ pGx
+h!`Aha`
+Akac
+@l`d0H

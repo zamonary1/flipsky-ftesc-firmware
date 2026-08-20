@@ -1,0 +1,10 @@
+firmware_001E4524_FT85BS_EB.bin :
+FT85BS_EB
+firmware_003794FC_FT85BS_DR.bin :
+FT85BS_DR
+firmware_003A1CF8_FT85BS_DR.bin :
+FT85BS
+firmware_00443CE8_FT85BS_EB.bin :
+FT85BS_EB
+firmware_005D8CC0_FT85BS.bin :
+FT85BS

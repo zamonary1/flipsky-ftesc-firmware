@@ -1,0 +1,4 @@
+firmware_00286514_FT85BD.bin :
+FT85BD
+firmware_004E5CD8_FT85BD.bin :
+FT85BD
